@@ -1,6 +1,7 @@
 Accessibility Update and CSS Consolidation
 
 ##The criteria for client satisfaction are:
+
  *Use of semantic HTML elements with loogical Structure independent of styling and positioning
  *alt attributes in place for images
  *Place a descriptive title
