@@ -5,10 +5,13 @@
 
 ##The criteria for client satisfaction is:
 
-#-Use of semantic HTML elements with loogical Structure independent of styling and positioning
+###-Use of semantic HTML elements with loogical Structure independent of styling and positioning
 
-#-alt attributes in place for images
+###-alt attributes in place for images
 
-#-Place a descriptive title
+###-Place a descriptive title
 
-![Screenshot](images\01-html-css-git-homework-demo.png)
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/80184962/115173715-e3f53000-a095-11eb-95ed-f1f0d7375f54.png)
+
+#### DEPLOYED APPLICATION URL: [https://dillin92.github.io/horiseon-Dillin-Helsley](url)
+
