@@ -5,7 +5,7 @@
 
 ##The criteria for client satisfaction is:
 
-###-Use of semantic HTML elements with loogical Structure independent of styling and positioning
+###-Use of semantic HTML elements with logical Structure independent of styling and positioning
 
 ###-alt attributes in place for images
 
